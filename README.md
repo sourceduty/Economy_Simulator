@@ -13,7 +13,7 @@ Tailored to suit different levels of economic understanding, Economy Simulator c
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[AI Simulation](https://github.com/sourceduty/AI_Simulation)
+[GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
