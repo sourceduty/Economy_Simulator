@@ -9,6 +9,10 @@
 Tailored to suit different levels of economic understanding, Economy Simulator can explain complex economic concepts in simpler terms for beginners while providing in-depth analyses for more advanced users. It strives to make economic concepts accessible and engaging, ensuring users gain valuable knowledge whether they seek a broad overview or specific information about a country's economic history, current state, and potential developments. This tool helps demystify economic phenomena, fostering a deeper appreciation of how economies function and evolve.
 
 #
+
+![Thanks](https://github.com/user-attachments/assets/c2c6fa25-c295-4b03-8732-1990977ff860)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
